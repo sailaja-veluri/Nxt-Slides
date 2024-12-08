@@ -1,0 +1,9 @@
+.slidesPanel-container {
+  display: flex;
+  justify-content: flex-start;
+}
+.slidesList-in-panel {
+  width: 500px;
+  overflow-y: scroll;
+  height: 100vh;
+}
